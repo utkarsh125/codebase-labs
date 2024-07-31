@@ -1,5 +1,5 @@
 ## Image Processing
-Image processing is a technique of performing operations on an image to enhance it or to extract meaningful information from it.
+<mark style="background: #BBFABBA6;">Image processing</mark> is a technique of performing operations on an image to enhance it or to extract meaningful information from it.
 
 ##### Key Objectives
 - **Image Enhancement**
@@ -9,7 +9,7 @@ Image processing is a technique of performing operations on an image to enhance 
 - **Segmentation** - _it is the process of dividing an image to analyse it_
 ##### Common Techniques and Methods
 **1. Filtering**
-- used in order to remove noise and *gaussian blur* from the image
+- used in order to remove noise and <mark style="background: #D2B3FFA6;font-style: italic;">gaussian blur</mark> from the image
 - sharpens the blurred images
 **2. Histogram Equalization**
 - This is a method of enhancing contrast of an image by stretching out the intensity range.
